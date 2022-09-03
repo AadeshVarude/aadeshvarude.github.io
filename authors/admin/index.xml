@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>It&#39;s Kartik Patath</title>
+    <link>https://kartiksonu.github.io/authors/admin/</link>
+      <atom:link href="https://kartiksonu.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>It&#39;s Kartik Patath</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://kartiksonu.github.io/authors/admin/avatar_hu0ff1b7926c9367fce7256a6ad9caf0b1_1324149_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>It&#39;s Kartik Patath</title>
+      <link>https://kartiksonu.github.io/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>

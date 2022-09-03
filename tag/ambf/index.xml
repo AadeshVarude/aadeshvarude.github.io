@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AMBF | It&#39;s Kartik Patath</title>
+    <link>https://kartiksonu.github.io/tag/ambf/</link>
+      <atom:link href="https://kartiksonu.github.io/tag/ambf/index.xml" rel="self" type="application/rss+xml" />
+    <description>AMBF</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://kartiksonu.github.io/media/icon_hu2e9c6cf66d3af87fdee2833acc3b1756_12919_512x512_fill_lanczos_center_3.png</url>
+      <title>AMBF</title>
+      <link>https://kartiksonu.github.io/tag/ambf/</link>
+    </image>
+    
+    <item>
+      <title>Impedance Control</title>
+      <link>https://kartiksonu.github.io/project/impedance-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/impedance-control/</guid>
+      <description>&lt;p&gt;Robots have long been used in the operation theaters primarily for a wide variety of applications ranging from neurosurgery to laparoscopic surgery. This demands aregulated force control between the manipulator and the tissues in which the robot interacts. Although the da Vinci Surgical Robot has risen as a pioneering tool in the field of minimally invasive surgery, the platform lacks a controller that governs the interaction of the robot’s end effector with its surrounding environment in a compliant manner. This work presents thedynamics modeling and design of an impedance controller for the Master Tool Manipulator of the da Vinci robot in a simulated environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

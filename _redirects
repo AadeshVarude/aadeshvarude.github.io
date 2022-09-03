@@ -1,0 +1,13 @@
+# Netlify redirects
+# Automatically generated
+# Documentation: https://docs.netlify.com/routing/redirects/
+/arm /project/motion-forcasting/
+/arm /project/obstacle-avoidance/
+/arm /project/curiosity-based-learning/
+/arm /project/dqn/
+/arm /project/butler/
+/arm /project/icp/
+/arm /project/impedance-control/
+/arm /project/sara/
+/arm /project/semantic-slam/
+/arm /project/vision-system-for-6-legged-robot/

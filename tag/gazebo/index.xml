@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gazebo | It&#39;s Kartik Patath</title>
+    <link>https://kartiksonu.github.io/tag/gazebo/</link>
+      <atom:link href="https://kartiksonu.github.io/tag/gazebo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gazebo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kartiksonu.github.io/media/icon_hu2e9c6cf66d3af87fdee2833acc3b1756_12919_512x512_fill_lanczos_center_3.png</url>
+      <title>Gazebo</title>
+      <link>https://kartiksonu.github.io/tag/gazebo/</link>
+    </image>
+    
+    <item>
+      <title>Obstacle avoidance</title>
+      <link>https://kartiksonu.github.io/project/obstacle-avoidance/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/obstacle-avoidance/</guid>
+      <description>&lt;p&gt;As a part of Advance Robot Navigation course assignment, I designed and simulated a random walker which avoids obstacles and moves randomly inside a custom made gazebo world. P.S The git reopsitory has a detailed tutorial on how o run this from scratch&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

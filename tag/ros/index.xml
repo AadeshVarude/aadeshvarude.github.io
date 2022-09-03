@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ROS | It&#39;s Kartik Patath</title>
+    <link>https://kartiksonu.github.io/tag/ros/</link>
+      <atom:link href="https://kartiksonu.github.io/tag/ros/index.xml" rel="self" type="application/rss+xml" />
+    <description>ROS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kartiksonu.github.io/media/icon_hu2e9c6cf66d3af87fdee2833acc3b1756_12919_512x512_fill_lanczos_center_3.png</url>
+      <title>ROS</title>
+      <link>https://kartiksonu.github.io/tag/ros/</link>
+    </image>
+    
+    <item>
+      <title>Obstacle avoidance</title>
+      <link>https://kartiksonu.github.io/project/obstacle-avoidance/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/obstacle-avoidance/</guid>
+      <description>&lt;p&gt;As a part of Advance Robot Navigation course assignment, I designed and simulated a random walker which avoids obstacles and moves randomly inside a custom made gazebo world. P.S The git reopsitory has a detailed tutorial on how o run this from scratch&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Butler-Robot</title>
+      <link>https://kartiksonu.github.io/project/butler/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/butler/</guid>
+      <description>&lt;p&gt;This project of butler robot is basically an idea of interfacing the computer vision with the present day robotics .This is one of the long term projects which has a decent scope of advancement in manual assistance , machine learning and artificial intelligence. Keeping these aspects of this project in mind , our team from IVLABS  took a step towards the advancement and development of butler robots.&lt;/p&gt;
+&lt;p&gt;​The butler bot works on Robot Operating System (ROS).The robot is steered using an android app. The butler is actuated using the means of specially designed structure that includes power screw and Omni wheels. The robot can supervise different localities using its teleprescence attribute. This robot is a test bed for algorithms ,software and other technology that will enable robots to perform challenging manipulation and tasks such SLAM(simultaneous localisation and mapping),gaming simulation and other control applications such as voice recognition and following a person which is called the follow-me attribute. We are using kinect sensor to recognise you and detect hand gestures and work accordingly. By using on board Pico projector the butler bot can project on the walls of your home. This make butler bot a great source of entertainment it’s like having a computer with you every time and you can access internet, watch movies, photos and lot more ….&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impedance Control</title>
+      <link>https://kartiksonu.github.io/project/impedance-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/impedance-control/</guid>
+      <description>&lt;p&gt;Robots have long been used in the operation theaters primarily for a wide variety of applications ranging from neurosurgery to laparoscopic surgery. This demands aregulated force control between the manipulator and the tissues in which the robot interacts. Although the da Vinci Surgical Robot has risen as a pioneering tool in the field of minimally invasive surgery, the platform lacks a controller that governs the interaction of the robot’s end effector with its surrounding environment in a compliant manner. This work presents thedynamics modeling and design of an impedance controller for the Master Tool Manipulator of the da Vinci robot in a simulated environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SARA</title>
+      <link>https://kartiksonu.github.io/project/sara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/sara/</guid>
+      <description>&lt;p&gt;SARA is an AI Platform being developed with the intention of exploring this field of Human-Robot Interaction (HRI). It is to serve as a medium for implementing and assessing various state-of-the-art assistive technologies, bringing forth areas where humans and robots benefit symbiotically from mutual correspondence in real-world situations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic SLAM</title>
+      <link>https://kartiksonu.github.io/project/semantic-slam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/semantic-slam/</guid>
+      <description>&lt;p&gt;It is often desirable to capture and map semantic information of an environment during simultaneous localization and mapping (SLAM). Such semantic information can enable a robot to better distinguish places with similar low-level geometric and visual features and perform high-level tasks that use semantic information about objects to be manipulated and environments to be navigated. While semantic SLAM has gained increasing attention, there is little research on semantic- level data association based on semantic objects, i.e., object-level data association. In this paper, we propose a novel object-level data association algorithm based on bag of words algorithm [1], formulated as a maximum weighted bipartite matching problem. With object-level data association solved, we develop a quadratic-programming-based semantic object initialization scheme using dual quadric and introduce additional constraints to improve the success rate of object initialization. The inte- grated semantic-level SLAM system can achieve high-accuracy object-level data association and real-time semantic mapping as demonstrated in the experiments. The online semantic map building and semantic-level localization capabilities facilitate semantic-level mapping and task planning in a priori unknown environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vision-System for 6 legged hexapod</title>
+      <link>https://kartiksonu.github.io/project/vision-system-for-6-legged-robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/vision-system-for-6-legged-robot/</guid>
+      <description>&lt;p&gt;Search and rescue has always been a critical question to be answered in times of natural disasters. The destroyed areas are difficult and sometimes impossible for humans to access. Biologically inspired legged robots can be quite effective at search and rescue operations, especially in confined areas where humans cannot reach. These robots can reduce risk levels of human rescuers. This creates an opening to new research area in the field of search and rescue. In most of the scenarios the legged robots work using compliance, for motion in unknown environments. We propose a vision system for a 6-legged robot which enables it to better perceive the environment, helping the robot to navigate in an unknown environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

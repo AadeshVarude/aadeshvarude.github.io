@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python | It&#39;s Kartik Patath</title>
+    <link>https://kartiksonu.github.io/tag/python/</link>
+      <atom:link href="https://kartiksonu.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kartiksonu.github.io/media/icon_hu2e9c6cf66d3af87fdee2833acc3b1756_12919_512x512_fill_lanczos_center_3.png</url>
+      <title>python</title>
+      <link>https://kartiksonu.github.io/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>Motion forecasting</title>
+      <link>https://kartiksonu.github.io/project/motion-forcasting/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/motion-forcasting/</guid>
+      <description>&lt;p&gt;A better understanding of agents’ behaviour in a dynamic traffic environment is required for an efficient modelling and navigation of autonomous vehicles. In this project we plan to address the problem of motion forecasting of traffic actors through experimentation on the Argoverse Motion Forecasting dataset. We attempt to tackle this challenge using generative adversarial networks (GANs) and compare out results with baseline methods of seq-to-seq prediction and social LSTM provided by the Argoverse Challenge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICP</title>
+      <link>https://kartiksonu.github.io/project/icp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/icp/</guid>
+      <description>&lt;p&gt;Applications varying from medical robotics as to mine tunnel profiling require registration of 3D point cloud data for either model construction, pose estimation or mapping. Registration is the process of finding the spatial transformation that aligns a point cloud to a geometric model, defined in different reference frames. When the correspondences between the points in the two reference frames are known, spatial transformation can be found using a least squares based approach. However, in most practical applications, the correspondence is unknown. By iteratively finding the best correspondence and the optimal transformation given that correspondence, Besl et al. developed the iterativeclosest point (ICP). In this work, we compare two registration methods ICP and Go-ICP, discussing the benefits and drawbacks of each method and drawing conclusion through analysis of results from each method.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impedance Control</title>
+      <link>https://kartiksonu.github.io/project/impedance-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/impedance-control/</guid>
+      <description>&lt;p&gt;Robots have long been used in the operation theaters primarily for a wide variety of applications ranging from neurosurgery to laparoscopic surgery. This demands aregulated force control between the manipulator and the tissues in which the robot interacts. Although the da Vinci Surgical Robot has risen as a pioneering tool in the field of minimally invasive surgery, the platform lacks a controller that governs the interaction of the robot’s end effector with its surrounding environment in a compliant manner. This work presents thedynamics modeling and design of an impedance controller for the Master Tool Manipulator of the da Vinci robot in a simulated environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

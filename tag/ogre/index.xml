@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OGRE | It&#39;s Kartik Patath</title>
+    <link>https://kartiksonu.github.io/tag/ogre/</link>
+      <atom:link href="https://kartiksonu.github.io/tag/ogre/index.xml" rel="self" type="application/rss+xml" />
+    <description>OGRE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://kartiksonu.github.io/media/icon_hu2e9c6cf66d3af87fdee2833acc3b1756_12919_512x512_fill_lanczos_center_3.png</url>
+      <title>OGRE</title>
+      <link>https://kartiksonu.github.io/tag/ogre/</link>
+    </image>
+    
+    <item>
+      <title>Vision-System for 6 legged hexapod</title>
+      <link>https://kartiksonu.github.io/project/vision-system-for-6-legged-robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/project/vision-system-for-6-legged-robot/</guid>
+      <description>&lt;p&gt;Search and rescue has always been a critical question to be answered in times of natural disasters. The destroyed areas are difficult and sometimes impossible for humans to access. Biologically inspired legged robots can be quite effective at search and rescue operations, especially in confined areas where humans cannot reach. These robots can reduce risk levels of human rescuers. This creates an opening to new research area in the field of search and rescue. In most of the scenarios the legged robots work using compliance, for motion in unknown environments. We propose a vision system for a 6-legged robot which enables it to better perceive the environment, helping the robot to navigate in an unknown environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

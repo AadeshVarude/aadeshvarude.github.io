@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Xiao | It&#39;s Kartik Patath</title>
+    <link>https://kartiksonu.github.io/authors/jing-xiao/</link>
+      <atom:link href="https://kartiksonu.github.io/authors/jing-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jing Xiao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://kartiksonu.github.io/media/icon_hu2e9c6cf66d3af87fdee2833acc3b1756_12919_512x512_fill_lanczos_center_3.png</url>
+      <title>Jing Xiao</title>
+      <link>https://kartiksonu.github.io/authors/jing-xiao/</link>
+    </image>
+    
+    <item>
+      <title>Semantic SLAM with Autonomous Object-Level Data Association</title>
+      <link>https://kartiksonu.github.io/publication/paper5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kartiksonu.github.io/publication/paper5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
