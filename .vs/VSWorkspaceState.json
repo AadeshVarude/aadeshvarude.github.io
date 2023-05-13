@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\project",
+    "\\project\\au2n"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\project\\au2n\\index.html",
   "PreviewInSolutionExplorer": false
 }
