@@ -2117,17 +2117,17 @@
       <input type="button" class="btn btn-outline-primary " value="Planning" onclick="planning()" />
    <script>
     function planning() {
-        document.getElementById('reconfig').style.display = "none";
-        document.getElementById('drone').style.display = "block";
-        document.getElementById('scara').style.display = "none";
-        document.getElementById('driving').style.display = "none";
-        document.getElementById('Breakout').style.display = "none";
-        document.getElementById('parking').style.display = "none";
+        document.getElementById('reconfig').style.display = "block";
+        document.getElementById('MP').style.display = "block";
+        document.getElementById('HMP').style.display = "block";
+        document.getElementById('nimbro_c').style.display = "block";
+        document.getElementById('nimbro_v').style.display = "none";
         document.getElementById('panorama').style.display = "none";
-        document.getElementById('AutoCalib').style.display = "none";
-        document.getElementById('farming').style.display = "none";
-        document.getElementById('riscv').style.display = "none";
-        document.getElementById('multiagent').style.display = "block";
+        document.getElementById('cam_calib').style.display = "none";
+        document.getElementById('sfm').style.display = "none";
+        document.getElementById('au2n'.style.display = "none";
+        document.getElementById('edge_detect').style.display = "none";
+        document.getElementById('hand_gesture').style.display = "none";
     }
 </script>
     
@@ -2278,7 +2278,7 @@
           
 
 
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-5 view-showcase" id='sfm'>
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0"><a href="/project/sfm_nerf/" >Structure from Motion and Tiny NeRF</a></div>
@@ -2355,7 +2355,7 @@
         
           <div class="col-12 isotope-item js-id-Pytorch js-id-Reinforcement-Learning js-id-OpenAI-Gym">
         
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-5 view-showcase" id='MP'>
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0"><a href="/project/MP/" >Motion Planning Algorithms</a></div>
@@ -2432,7 +2432,7 @@
 
 
 
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-5 view-showcase" id='HMP'>
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0"><a href="/project/MAPF/" >Heuristic based approach for multi agent path planning</a></div>
@@ -2512,7 +2512,7 @@
         
           <div class="col-12 isotope-item js-id-ROS js-id-Gazebo js-id-Navigation">
 
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-5 view-showcase" id='au2n'>
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0"><a href="/project/au2n/" >Attention U2Net</a></div>
@@ -2555,7 +2555,7 @@
 
 
 
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-5 view-showcase" id='cam_calib'>
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0"><a href="/project/autocalib/" >Camera Calibration</a></div>
@@ -2618,7 +2618,7 @@
 
 
 
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-5 view-showcase" id='edge_detect'>
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0"><a href="/project/obstacle-avoidance/" >Probability-based edge detection</a></div>
@@ -2717,7 +2717,7 @@
 
 
 
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-5 view-showcase" id='hand_gesture'>
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0"><a href="/project/curiosity-based-learning/" >Hand Gesture Control of Computer Features</a></div>
@@ -2834,7 +2834,7 @@ identify the hand gestures and execute the desired command on laptop.
 
 
 
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-5 view-showcase" id='nimbro_c'>
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0"><a href="/project/dqn/" >Controls and trajectory generation for walking gaits of Nimbro.</a></div>
@@ -2933,7 +2933,7 @@ identify the hand gestures and execute the desired command on laptop.
 
 
 
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-5 view-showcase" id='nimbro_v'>
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0"><a href="/project/butler/" >Vision and Object Detection for Nimbro</a></div>
@@ -3032,7 +3032,7 @@ identify the hand gestures and execute the desired command on laptop.
 
 
 
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-5 view-showcase" id='panorama'>
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0"><a href="/project/icp/" >Panorama Stiching</a></div>
