@@ -1,3 +1,4 @@
 User-agent: *
+Allow: /
 
-Sitemap: https://kartiksonu.github.io/sitemap.xml
+Sitemap: https://aadeshvarude.github.io/sitemap.xml
